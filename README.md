@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mokhar Z. Alaya
-- 👀 I’m interested in AI/ML/DL and Math Stats
+- 👀 I’m interested in AI/ML/DL
 - 📫 How to reach me ...
 
 <!---
